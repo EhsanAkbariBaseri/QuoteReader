@@ -1,0 +1,9 @@
+Execute the binary with : 
+
+$ java -jar QuoteReader.jar
+
+or 
+
+$ jar QuoteReader.jar
+
+or simply double click on it :)
